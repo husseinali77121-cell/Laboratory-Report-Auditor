@@ -1,0 +1,17 @@
+{
+    "Glucose": {
+        "unit": "mg/dL",
+        "low": 70,
+        "high": 110
+    },
+    "Creatinine": {
+        "unit": "mg/dL",
+        "low": 0.6,
+        "high": 1.3
+    },
+    "Potassium": {
+        "unit": "mmol/L",
+        "low": 3.5,
+        "high": 5.2
+    }
+}
