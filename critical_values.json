@@ -1,0 +1,10 @@
+{
+    "Glucose": {
+        "low": 40,
+        "high": 500
+    },
+    "Potassium": {
+        "low": 2.5,
+        "high": 6.5
+    }
+}
