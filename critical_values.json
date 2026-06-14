@@ -1,10 +1,107 @@
 {
-    "Glucose": {
-        "low": 40,
-        "high": 500
-    },
-    "Potassium": {
-        "low": 2.5,
-        "high": 6.5
-    }
+  "Potassium": {
+    "low": 2.5,
+    "high": 6.5,
+    "unit": "mmol/L"
+  },
+  "Sodium": {
+    "low": 120,
+    "high": 160,
+    "unit": "mmol/L"
+  },
+  "Chloride": {
+    "low": 80,
+    "high": 125,
+    "unit": "mmol/L"
+  },
+  "Glucose": {
+    "low": 40,
+    "high": 400,
+    "unit": "mg/dL"
+  },
+  "Calcium": {
+    "low": 6.0,
+    "high": 14.0,
+    "unit": "mg/dL"
+  },
+  "Bicarbonate (CO2)": {
+    "low": 10,
+    "high": 40,
+    "unit": "mmol/L"
+  },
+  "Magnesium": {
+    "low": 1.0,
+    "high": 5.0,
+    "unit": "mg/dL"
+  },
+  "Phosphate": {
+    "low": 1.0,
+    "high": 9.0,
+    "unit": "mg/dL"
+  },
+  "Hemoglobin": {
+    "low": 6.0,
+    "high": 20.0,
+    "unit": "g/dL"
+  },
+  "Platelets": {
+    "low": 20000,
+    "high": 1000000,
+    "unit": "/µL"
+  },
+  "WBC": {
+    "low": 1.5,
+    "high": 30.0,
+    "unit": "x10³/µL"
+  },
+  "INR": {
+    "low": 0,
+    "high": 5.0,
+    "unit": ""
+  },
+  "aPTT": {
+    "low": 0,
+    "high": 100,
+    "unit": "seconds"
+  },
+  "Fibrinogen": {
+    "low": 80,
+    "high": 800,
+    "unit": "mg/dL"
+  },
+  "D-Dimer": {
+    "low": 0,
+    "high": 5.0,
+    "unit": "µg/mL"
+  },
+  "Troponin I": {
+    "low": -9999,
+    "high": 0.5,
+    "unit": "ng/mL"
+  },
+  "pH": {
+    "low": 7.20,
+    "high": 7.60,
+    "unit": ""
+  },
+  "pCO2": {
+    "low": 20,
+    "high": 70,
+    "unit": "mmHg"
+  },
+  "pO2": {
+    "low": 40,
+    "high": -9999,
+    "unit": "mmHg"
+  },
+  "Lactate": {
+    "low": 0,
+    "high": 4.0,
+    "unit": "mmol/L"
+  },
+  "Ammonia": {
+    "low": 0,
+    "high": 150,
+    "unit": "µmol/L"
+  }
 }
